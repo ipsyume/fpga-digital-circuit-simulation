@@ -33,7 +33,7 @@ Although implemented in Python, the design mirrors how such circuits are describ
 ## Waveform Output
 The simulation produces a waveform showing the evolution of output bits over time.
 
-![Adder Waveform](results/fpga_adder_waveform.png)
+![Adder Waveform](fpga_adder_waveform.png)
 
 ---
 
@@ -56,8 +56,7 @@ pip install -r requirements.txt
 python fpga_verilog_sim.py
 The waveform image will be saved as:
 
-bash
-Copy code
+
 results/fpga_adder_waveform.png
 Key Concepts Demonstrated
 Digital logic fundamentals
@@ -85,12 +84,3 @@ Timing analysis and propagation delay modeling
 
 Notes
 This project emphasizes conceptual clarity and digital design fundamentals rather than performance optimization.
-
-yaml
-Copy code
-
----
-
-## 🧾 Commit message
-Use this:
-Initial commit – FPGA digital circuit simulation
