@@ -52,33 +52,10 @@ fpga-digital-circuit-simulation/
 pip install -r requirements.txt
 python fpga_verilog_sim.py
 The waveform image will be saved as:
-
-
 results/fpga_adder_waveform.png
-Key Concepts Demonstrated
-Digital logic fundamentals
 
-Full adder and ripple-carry adder design
-
-Bit-level arithmetic operations
-
-Carry propagation
-
-Testbench-style simulation
-
-Waveform analysis
-
-Future Extensions
-Verilog implementation of the same circuits
-
-FPGA synthesis and hardware deployment
-
-Multi-bit ALU design
-
-Clocked sequential circuits
-
-Timing analysis and propagation delay modeling
 
 Notes
 This project emphasizes conceptual clarity and digital design fundamentals rather than performance optimization.
+
 
