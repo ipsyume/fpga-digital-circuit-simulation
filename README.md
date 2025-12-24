@@ -45,9 +45,6 @@ fpga-digital-circuit-simulation/
 └── results/
 └── fpga_adder_waveform.png
 
-yaml
-Copy code
-
 ---
 
 ## How to Run
@@ -84,3 +81,4 @@ Timing analysis and propagation delay modeling
 
 Notes
 This project emphasizes conceptual clarity and digital design fundamentals rather than performance optimization.
+
